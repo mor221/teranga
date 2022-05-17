@@ -6,5 +6,5 @@ projet Teranga
 <li>Ajouter article au ticket en cours de traitement</li>
 <li>Supprimer article du ticket en cours de traitement</li>
 <li>Reinitialiser un ticket</li>
-<li>Effectuer un la validation et le paiement du ticket (aide pour le calcul)</li>
+<li>Effectuer la validation pour le paiement du ticket (aide pour le calcul)</li>
 </ul>
